@@ -1,0 +1,45 @@
+User-agent: AdsBot-Google
+Disallow:
+User-agent: AdsBot-Google-Mobile
+Disallow:
+User-agent: AdsBot-Google-Mobile-Apps
+Disallow:
+User-agent: adidxbot
+Disallow:
+User-agent: Applebot
+Disallow:
+user-agent: AppleNewsBot
+Disallow:
+User-agent: bingbot
+Disallow:
+User-agent: BingPreview
+Disallow:
+User-agent: DuckDuckBot
+Disallow:
+User-agent: DuckDuckGo-Favicons-Bot
+Disallow:
+User-agent: Facebot
+Disallow:
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-Image
+Disallow:
+User-agent: Googlebot-Mobile
+Disallow:
+User-agent: Googlebot-News
+Disallow:
+User-agent: Googlebot-Video
+Disallow:
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: msnbot
+Disallow:
+User-agent: msnbot-media
+Disallow:
+User-agent: Twitterbot
+Disallow:
+#================================
+User-agent: *
+Disallow: /
+#================================
+Sitemap: https://mehdi-daldali.github.io/sitemap.xml
